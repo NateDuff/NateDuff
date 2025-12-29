@@ -1,11 +1,53 @@
-### Hello, I'm Nate Duff! 😄 👋
+### Hello, I'm Nate Duff! 👋
 
-![](https://img.shields.io/badge/%F0%9F%93%A6%20%20devops-engineer-green)
-![](https://img.shields.io/badge/%F0%9F%93%A6%20%20m365-expert-yellow)
-![](https://img.shields.io/badge/%F0%9F%93%A6%20%20azure-specialist-blue)
+![](https://img.shields.io/badge/Cloud-Architect-blue)
+![](https://img.shields.io/badge/Platform-Engineer-blueviolet)
+![](https://img.shields.io/badge/Azure-Expert-0078D4)
 
-- 🔭 I’m currently working on: Full stack Blazor applications deployed to Azure
-- 🌱 I’m currently learning: Bicep & Blazor
-- 💬 Ask me about: PowerShell, Azure DevOps, Bicep, Blazor, .NET
-- 📫 [My Personal Blog: NateDuff.com](https://nateduff.com) or [Twitter](https://twitter.com/n8duff) or [Dev](https://dev.to/n8duff)
-- ⚡ Fun fact: I'm an expert in Azure, Azure DevOps, & M365!
+I architect resilient cloud platforms that scale. With 10+ years of experience in Azure, Kubernetes, and DevOps, I help organizations build self-service infrastructure that empowers teams and drives measurable business outcomes.
+
+- 🔭 **Currently working on:** Leading architecture for resilient automation and FinOps governance at OneStream Software.
+- 🌱 **Currently exploring:** Advanced Go patterns, OpenTelemetry, and Platform Engineering best practices.
+- 💬 **Ask me about:** Azure Architecture, Kubernetes (AKS), DevOps Strategy, Infrastructure as Code (Bicep/Terraform), and Cloud FinOps.
+- 📫 **Connect with me:** [NateDuff.com](https://nateduff.com) | [Twitter](https://twitter.com/n8duff) | [Dev.to](https://dev.to/n8duff)
+
+### 🛠️ Technical Expertise
+
+**Cloud & Platform**
+Azure (Expert), AKS, Azure SQL, Container Apps, Functions, Landing Zones
+
+**Infrastructure & DevOps**
+Kubernetes, Docker, Bicep, Terraform, Azure DevOps, GitHub Actions, ArgoCD, GitOps
+
+**Development**
+Go, C#/.NET, TypeScript, Vue.js, PowerShell, Python
+
+### 🏆 Certifications
+
+- **Azure Solutions Architect Expert### Hello, I'm Nate Duff! 👋
+
+![](https://img.shields.io/badge/Cloud-Architect-blue)
+![](https://img.shields.io/badge/Platform-Engineer-blueviolet)
+![](https://img.shields.io/badge/Azure-Expert-0078D4)
+
+I architect resilient cloud platforms that scale. With 10+ years of experience in Azure, Kubernetes, and DevOps, I help organizations build self-service infrastructure that empowers teams and drives measurable business outcomes.
+
+- 🔭 **Currently working on:** Leading architecture for resilient automation and FinOps governance at OneStream Software.
+- 🌱 **Currently exploring:** Advanced Go patterns, OpenTelemetry, and Platform Engineering best practices.
+- 💬 **Ask me about:** Azure Architecture, Kubernetes (AKS), DevOps Strategy, Infrastructure as Code (Bicep/Terraform), and Cloud FinOps.
+- 📫 **Connect with me:** [NateDuff.com](https://nateduff.com) | [Twitter](https://twitter.com/n8duff)
+
+### 🛠️ Technical Expertise
+
+**Cloud & Platform**
+Azure (Expert), AKS, Azure SQL, Container Apps, Functions, Identity and Access Management, Federated Identity, SSO
+
+**Infrastructure & DevOps**
+Kubernetes, Docker, Bicep, Terraform, Azure DevOps, GitHub Actions, ArgoCD, GitOps
+
+**Development**
+Go, C#/.NET, TypeScript, Vue.js, PowerShell, Python
+
+### 🏆 Certifications
+
+- **Azure Solutions Architect Expert
