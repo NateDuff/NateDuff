@@ -9,12 +9,12 @@ I architect resilient cloud platforms that scale. With 10+ years of experience i
 - 🔭 **Currently working on:** Leading architecture for resilient automation and FinOps governance at OneStream Software.
 - 🌱 **Currently exploring:** Advanced Go patterns, OpenTelemetry, and Platform Engineering best practices.
 - 💬 **Ask me about:** Azure Architecture, Kubernetes (AKS), DevOps Strategy, Infrastructure as Code (Bicep/Terraform), and Cloud FinOps.
-- 📫 **Connect with me:** [NateDuff.com](https://nateduff.com) | [Twitter](https://twitter.com/n8duff) | [Dev.to](https://dev.to/n8duff)
+- 📫 **Connect with me:** [NateDuff.com](https://nateduff.com) | [Twitter](https://twitter.com/n8duff)
 
 ### 🛠️ Technical Expertise
 
 **Cloud & Platform**
-Azure (Expert), AKS, Azure SQL, Container Apps, Functions, Landing Zones
+Azure (Expert), AKS, Azure SQL, Container Apps, Functions, Identity & Access Management, Federated Identity, SSO
 
 **Infrastructure & DevOps**
 Kubernetes, Docker, Bicep, Terraform, Azure DevOps, GitHub Actions, ArgoCD, GitOps
