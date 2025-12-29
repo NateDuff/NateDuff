@@ -24,4 +24,6 @@ Go, C#/.NET, TypeScript, Vue.js, PowerShell, Python
 
 ### 🏆 Certifications
 
-- **Azure Solutions Architect Expert
+- Azure Solutions Architect Expert
+- Azure DevOps Engineer Expert
+- M365 Enterprise Administrator Expert
